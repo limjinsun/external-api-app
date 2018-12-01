@@ -6,9 +6,10 @@ Also, Every activity can be saved as persistence file in the system.
 ## Usage
 
 
-![image](/pics/1.png?raw=true){:height="50%" width="50%"}
+![image](/pics/1.png?raw=true)
 
 
+<img src="/pics/1.png" height="50%" width="50%">
 
 #### PhoneGap CLI
 
