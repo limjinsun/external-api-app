@@ -5,12 +5,7 @@ Also, Every activity can be saved as persistence file in the system.
 
 ## Usage
 
-
-![image](/pics/1.png?raw=true)
-
-
-<img src="/pics/1.png" height="50%" width="50%">
-
+<img src="/pics/1.png" height="50%" width="50%"><img src="/pics/2.png" height="50%" width="50%"><img src="/pics/3.png" height="50%" width="50%"><img src="/pics/4.png" height="50%" width="50%">
 #### PhoneGap CLI
 
 The hello-world template is the default when you create a new application using the [phonegap-cli][phonegap-cli-url].
