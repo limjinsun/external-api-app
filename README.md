@@ -5,7 +5,7 @@ Also, Every activity can be saved as persistence file in the system.
 
 ## Usage
 
-![image](/pics/Screenshot 2018-12-01 at 13.53.15.png){:height="50%" width="50%"}
+![image](/pics/1.png?raw=true)
 
 
 #### PhoneGap CLI
