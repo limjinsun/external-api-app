@@ -6,7 +6,7 @@ Also, Every activity can be saved as persistence file in the system.
 ## Usage
 
 
-![image](/pics/1.png?raw=true)
+![image](/pics/1.png?raw=true){:height="50%" width="50%"}
 
 
 
