@@ -5,7 +5,7 @@ Also, Every activity can be saved as persistence file in the system.
 
 ## Usage
 
-![image](https://user-images.githubusercontent.com/11390856/49329475-53c2f880-f577-11e8-9391-65ae39f4a402.png)
+![image](/pics/Screenshot 2018-12-01 at 13.53.15.png){:height="50%" width="50%"}
 
 
 #### PhoneGap CLI
