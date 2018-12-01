@@ -1,8 +1,12 @@
-# Hello World PhoneGap Template [![bitHound Score][bithound-img]][bithound-url]
+# Simple application for mobile development using external API and PhoneGap.
 
-A PhoneGap Hello World template
+This is a currency conversion and weather application using GPS functionality. The main point of this application is that user will be able to get current location data using GPS data. Based on that, the user will be able to see what currency conversion rate and what weather will be like in current location.
+Also, Every activity can be saved as persistence file in the system.
 
 ## Usage
+
+![image](https://user-images.githubusercontent.com/11390856/49329475-53c2f880-f577-11e8-9391-65ae39f4a402.png)
+
 
 #### PhoneGap CLI
 
