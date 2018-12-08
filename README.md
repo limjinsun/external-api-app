@@ -5,7 +5,8 @@ Also, Every activity can be saved as persistence file in the system.
 
 ## App Use-case
 
-<center><img src="https://media.giphy.com/media/AiF05bz9sMx1YOoOK2/giphy.gif" height="50%" width="50%"></center>
+<img src="https://media.giphy.com/media/AiF05bz9sMx1YOoOK2/giphy.gif" height="50%" width="50%">
+<img src="http://g.recordit.co/KPEC09eAvk.gif" height="50%" width="50%">
 
 ## App Layout
 
