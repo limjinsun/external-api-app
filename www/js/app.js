@@ -62,6 +62,7 @@ $$('.form-action').on('click', function() {
 
 function geo() {
     navigator.geolocation.getCurrentPosition(geoCallBack, onError);
+    console.log("geo func run...")
 }
 
 function onError() {
@@ -69,6 +70,8 @@ function onError() {
 }
 
 function geoCallBack(position) {
+    // 한글테스트
+    console.log(position);
     var lat = position.coords.latitude;
     var lng = position.coords.longitude;
     document.getElementById('lat').innerHTML = Number((lat).toFixed(6));
@@ -91,6 +94,7 @@ function geoCallBack(position) {
 }
 
 function returnKoreanRate() {
+    //한글테스트 
     navigator.geolocation.getCurrentPosition((position) => {
         var lat = position.coords.latitude;
         var lng = position.coords.longitude;
