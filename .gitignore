@@ -1,2 +1,2 @@
 #exclude everying in plugins.
-/plugins/*
+#/plugins/*
